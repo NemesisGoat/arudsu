@@ -1,0 +1,3 @@
+Попробуйте расширение в VSCode "Live Server"
+Или здесь https://nemesisgoat.github.io/arudsu/
+Или здесь nemesisgoat-prilozhenie.layero.ru
