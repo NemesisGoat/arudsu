@@ -13,4 +13,11 @@ window.addEventListener("load", () => {
         "0.3 0.3 0.3"
     );
 
+    document
+    .querySelector("#building")
+    .setAttribute(
+        "university-building",
+        ""
+    );
+
 });
